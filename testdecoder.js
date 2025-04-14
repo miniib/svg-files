@@ -137,5 +137,5 @@ function runDecoder(msg) {
 
     msg.payload = res;
     msg.metadata = null;
-    return msg;
+    return msg.payload;
 }
