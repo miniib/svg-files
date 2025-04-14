@@ -136,5 +136,6 @@ function runDecoder(msg) {
     }
 
     msg.payload = res;
+    msg.metadata = null;
     return msg;
 }
