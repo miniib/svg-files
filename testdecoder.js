@@ -134,7 +134,5 @@ function runDecoder(msg) {
             };
         }
     }
-
-    msg.payload = res;
-    return res;
+    return [res];
 }
