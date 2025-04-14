@@ -65,7 +65,7 @@ function runDecoder(msg) {
 
     const res = {};
     const sensorId = payload.deviceInfo.devEui.slice(-4);
-    res.id = `refrigerator-sensor:\${sensorId}-Milesight\`;
+    res.id = `refrigerator-sensor:${sensorId}-Milesight`;
     res.type = "refrigerator-sensor";
 
     const rawPayload = base64ToHex(payload.data);
