@@ -1,4 +1,4 @@
-function decodeMessage(msg) {
+function decodeMessage(payload, metadata) {
     function readUInt16LE(bytes) {
         return (bytes[1] << 8) + bytes[0];
     }
@@ -62,8 +62,8 @@ function decodeMessage(msg) {
 
     // ---- MAIN DECODING LOGIC ----
 
-    const payload = msg.payload;
-    const metadata = msg.metadata;
+    const payload = payload;
+    const metadata = metadata;
 
     const res = {};
     const sensorId = payload.deviceInfo.devEui.slice(-4);
