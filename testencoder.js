@@ -71,5 +71,5 @@ function runDecoder(msg) {
 	res.payload.data = decoded;
 	res.metadata = metadata;
 
-return [res];
+return res;
 }
