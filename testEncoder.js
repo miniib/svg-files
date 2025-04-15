@@ -7,7 +7,6 @@ function runDecoder(msg) {
     res.id = `refrigerator-sensor:${sensorId}-Milesight`;
     res.type = "refrigerator-sensor";
 
-    const rawPayload = base64ToHex(payload.data);
     const decoded = payload.data;
     const timestamp = new Date(payload.rxInfo[0].nsTime).toISOString();
 
