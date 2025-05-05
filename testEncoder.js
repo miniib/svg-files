@@ -72,5 +72,5 @@ function runDecoder(msg) {
             };
         }
     }
-    return [res];
+    return res;
 }
