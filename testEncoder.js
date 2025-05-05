@@ -72,6 +72,6 @@ function runDecoder(msg) {
             };
         }
     }
-    res.@context = "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+res["@context"] = "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld";
     return res;
 }
