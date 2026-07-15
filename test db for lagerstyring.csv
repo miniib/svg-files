@@ -1,4 +1,4 @@
-﻿Enhed;Type;Fabrikat;DevEUI;Appkey;Hvor;Fag;Niveau;Kasse
+﻿Enhed;Type;Fabrikat;DevEUI/IMEI;Appkey;Hvor;Fag;Niveau;Kasse
 Yubby GPS tracker;LoRaWAN sensor;Digtal matter;70B3D5705000680A;F03C2F3835F9D1E21BEC5E754DF939AB;Reol;7;1;Digital Matter #1
 Yubby GPS tracker;LoRaWAN sensor;Digtal matter;70B3D570500013D8;;Reol;7;1;Digital Matter #1
 Yubby GPS tracker;LoRaWAN sensor;Digtal matter;70B3D570500066BA;;Reol;7;1;Digital Matter #1
