@@ -1,12 +1,17 @@
-﻿Enhed;Type;Fabrikat;DevEUI;Appkey;Hvor;Fag;Niveau
-Yubby GPS tracker;LoRaWAN sensor;Digtal matter;1221223133;1232+02000313;Reol;3;2
-Yubby GPS tracker;LoRaWAN sensor;Digtal matter;1221223134;1232+02000314;Reol;3;2
-Yubby GPS tracker;LoRaWAN sensor;Digtal matter;1221223135;1232+02000315;Reol;5;2
-" Oyster 3 GPS 4g BLE";Cellular Sensor;Digtal matter;;;;;
-Oyster 3 GPS LoRaWAN;LoRaWAN sensor;Digtal matter;;;;;
-Oyster 3 GPS LoRaWAN;LoRaWAN sensor;Digtal matter;;;;;
-Oyster 3 GPS LoRaWAN;LoRaWAN sensor;Digtal matter;;;;;
-Bolt2 GPS 4g;Cellular Sensor;Digtal matter;;;;;
-Bolt2 GPS 4g;LoRaWAN sensor;Digtal matter;;;;;
-Bolt2 GPS 4g;Cellular sensor;Digtal matter;;;;;
-Bolt2 GPS 4g;LoRaWAN sensor;Digtal matter;;;;;
+﻿Enhed;Type;Fabrikat;DevEUI;Appkey;Hvor;Fag;Niveau;Kasse
+Yubby GPS tracker;LoRaWAN sensor;Digtal matter;70B3D5705000680A;F03C2F3835F9D1E21BEC5E754DF939AB;Reol;7;1;Digital Matter #1
+Yubby GPS tracker;LoRaWAN sensor;Digtal matter;70B3D570500013D8;;Reol;7;1;Digital Matter #1
+Yubby GPS tracker;LoRaWAN sensor;Digtal matter;70B3D570500066BA;;Reol;7;1;Digital Matter #1
+OYSTER3 GPS tracker;LoRaWAN sensor;Digtal matter;70B3D5705001205B;86AA77D364315A9672576B13562B41FB;Reol;7;1;Digital Matter #1
+OYSTER3 GPS tracker;LoRaWAN sensor;Digtal matter;70B3D5705001206B;723D9C91DC92ABC25621DDAAB51E47A5;Reol;7;1;Digital Matter #1
+OYSTER3 GPS tracker;LoRaWAN sensor;Digtal matter;70B3D57050012031;6B61298E35B0566A2746C62BD25B8430;Reol;7;1;Digital Matter #1
+BOLT2-4g GPS tracker;Cellular Sensor;Digtal matter;351516173022237;;Reol;7;1;Digital Matter #2
+BOLT2-4g GPS tracker;Cellular Sensor;Digtal matter;351516175100205;;Reol;7;1;Digital Matter #2
+BOLT2-4g GPS tracker;Cellular Sensor;Digtal matter;351516173023847;;Reol;7;1;Digital Matter #2
+BOLT2-4g GPS tracker;Cellular Sensor;Digtal matter;351516175111590;;Reol;7;1;Digital Matter #2
+OYSTER1 GPS tracker;LoRaWAN sensor;Digtal matter;70B3D5705000370A;;Reol;7;1;Digital Matter #1
+Guppy GPS trakcer;LoRaWAN sensor;Digtal matter;70B3D570500076EF;;Reol;7;1;Digital Matter #1
+OYSTER3-4G-BLE GPS tracker;Cellular Sensor;Digtal matter;359746162175793;;Reol;7;1;Digital Matter #2
+4x Guppy+Oyster+G62;Programming Cable;Digtal matter;;;Reol;7;1;Digital Matter #1
+2x Yubby Programmer;Programming Cable;Digtal matter;;;Reol;7;1;Digital Matter #1
+ULINK 2 Oyster3;Programming Cable;Digtal matter;;;Reol;7;1;Digital Matter #2
