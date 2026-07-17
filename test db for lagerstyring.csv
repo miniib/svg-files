@@ -40,3 +40,4 @@ LSN50-D20;LoRaWAN sensor;Dragino;A840415A118761DA;15CBE7A23B55B56C14B8BBF44FB02D
 Arduino Uno WIFI R2;Microcontroller;Arduino;;;Reol;7;1;Blandet #2
 Efento NB-IoT Logger;Cellular Sensor;Efento;867207069192030;;Reol;7;1;Blandet #2
 R311FA - Activity sensor;LoRaWAN sensor;Netvox;00137A100004574E;;Reol;7;1;Blandet #2
+IOBUTTON;LoRaWAN sensor;ioThings;70B3D599300012BF;37AD9910D51711F7C81C705C7311F205;Reol;7;1;Blandet #2
