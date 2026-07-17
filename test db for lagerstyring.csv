@@ -46,3 +46,4 @@ Elsys ERS2 Eye;LoRaWAN sensor;Elsys;A81758FFFE0B8D18;856A2A46ED559B83AA590B0BF3B
 LWL04 Water Leak;LoRaWAN sensor;Dragino;A84041168C5A5A61;8FF9949CABEA3D40C028DA2A71799F69;Reol;7;1;Dragino #1
 Dragino Battery;Battery;Dragino;;;Reol;7;1;Dragino #1
 Browan GPS;LoRaWAN sensor;Browan;E8E1E100010B4B4D;0da473562e0eb5c6f5a20a76b9d181f2;Reol;7;1;Blandet #2
+LoRa Edge Tracker;LoRaWAN sensor;Semtech;0016C001F001E4A4;;Reol;7;1;Blandet #2
