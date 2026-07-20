@@ -1,7 +1,7 @@
 ﻿Enhed;Type;Fabrikat;DevEUI/IMEI;Appkey;Hvor;Fag;Niveau;Kasse
 Yubby GPS tracker;LoRaWAN sensor;Digtal matter;70B3D5705000680A;F03C2F3835F9D1E21BEC5E754DF939AB;Reol;7;1;Digital Matter #1
 Yubby GPS tracker;LoRaWAN sensor;Digtal matter;70B3D570500013D8;;Reol;7;1;Digital Matter #1
-Yubby GPS tracker;LoRaWAN sensor;Digtal matter;70B3D570500066BA;;Reol;7;1;Digital Matter #1
+Yubby GPS tracker;LoRaWAN sensor;Digtal matter;70B3D570500066BA;fe1988b0728c02fd12f8c6b9045b5171;Reol;7;1;Digital Matter #1
 OYSTER3 GPS tracker;LoRaWAN sensor;Digtal matter;70B3D5705001205B;86AA77D364315A9672576B13562B41FB;Reol;7;1;Digital Matter #1
 OYSTER3 GPS tracker;LoRaWAN sensor;Digtal matter;70B3D5705001206B;723D9C91DC92ABC25621DDAAB51E47A5;Reol;7;1;Digital Matter #1
 OYSTER3 GPS tracker;LoRaWAN sensor;Digtal matter;70B3D57050012031;6B61298E35B0566A2746C62BD25B8430;Reol;7;1;Digital Matter #1
@@ -24,8 +24,8 @@ Elsys ERS2CO2;LoRaWAN sensor;Elsys;A81758FFFE0824F2;;Reol;7;1;Elsys #1
 Elsys ELT-2-HP;LoRaWAN sensor;Elsys;A81758FFFE052540;;Reol;7;1;Elsys #1
 Elsys ELT-2-HP;LoRaWAN sensor;Elsys;A81758FFFE03CFE1;;Reol;7;1;Elsys #1
 Elsys ELT programmer;Programming Cable;Elsys;;;Reol;7;1;Elsys #1
-LW004-PB;LoRaWAN sensor;Moko Smart;CC6C7CFFFF868161;;Reol;7;1;Blandet #1
-R312 - Button;LoRaWAN sensor;Netvox;00137A1000040F85;;Reol;7;1;Blandet #1
+LW004-PB;LoRaWAN sensor;Moko Smart;CC6C7CFFFF868161;2b7e151628aed2a6abf7158809cf4f3c;Reol;7;1;Blandet #1
+R312 - Button;LoRaWAN sensor;Netvox;00137A1000040F85;BE6A150DBD363D651ADC7F44EFC2C399;Reol;7;1;Blandet #1
 IOTRACKER 3;LoRaWAN sensor;ioThings;Ukendt;;Reol;7;1;Blandet #1
 IC-Meter LoRa;LoRaWAN sensor;Tektelic;0004A30B00226F98;;Reol;7;1;Blandet #1
 IC-Meter LoRa;LoRaWAN sensor;Tektelic;0004A30B000F9B2D;;Reol;7;1;Blandet #1
@@ -46,7 +46,7 @@ Elsys ERS2 Eye;LoRaWAN sensor;Elsys;A81758FFFE0B8D18;856A2A46ED559B83AA590B0BF3B
 LWL04 Water Leak;LoRaWAN sensor;Dragino;A84041168C5A5A61;8FF9949CABEA3D40C028DA2A71799F69;Reol;7;1;Dragino #1
 Dragino Battery;Battery;Dragino;;;Reol;7;1;Dragino #1
 Browan GPS;LoRaWAN sensor;Browan;E8E1E100010B4B4D;0da473562e0eb5c6f5a20a76b9d181f2;Reol;7;1;Blandet #2
-LoRa Edge Tracker;LoRaWAN sensor;Semtech;0016C001F001E4A4;;Reol;7;1;Blandet #2
+LoRa Edge Tracker;LoRaWAN sensor;Semtech;0016C001F001E4A4;00000000000000000000000000012345;Reol;7;1;Blandet #2
 Woodsense Woody v1.1;LoRaWAN sensor;Woodsense;B65FAAD7055036FA;;Reol;7;1;Blandet #2
 Browan GPS;LoRaWAN sensor;Browan;E8E1E100010B4A21;4d459ad9eb2cf069b65030aa74585e75;Reol;7;1;Blandet #2
 Browan GPS;LoRaWAN sensor;Browan;E8E1E100010B4A34;;Reol;7;1;Blandet #2
