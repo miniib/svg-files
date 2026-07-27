@@ -178,3 +178,4 @@ Bosch Parking;LoRaWAN sensor;Bosch;fcd6bd000019653f;3bb4f48c3855ff635ae85ab68c5d
 PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B0107D574;;Reol;6;2;Blandet #3
 VS330 - Bathroom Sensor;LoRaWAN sensor;Milesight;24E124617D056119;00000000000000000000000000000001;Reol;6;0;Milesight #3
 DC500 - People counter;Cellular Sensor;Dingtek;865385060636015;;Reol;6;2;Blandet #3
+D0209 - Parking sensor;LoRaWAN sensor;Dingtek;8CF95720001A8E4F;;Reol;6;2;Blandet #3
