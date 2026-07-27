@@ -177,3 +177,4 @@ EM400-TLD;LoRaWAN sensor;Milesight;24E124329E211711;;Reol;6;0;Milesight #3
 Bosch Parking;LoRaWAN sensor;Bosch;fcd6bd000019653f;3bb4f48c3855ff635ae85ab68c5dc82b;Reol;6;2;Blandet #3
 PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B0107D574;;Reol;6;2;Blandet #3
 VS330 - Bathroom Sensor;LoRaWAN sensor;Milesight;24E124617D056119;00000000000000000000000000000001;Reol;6;0;Milesight #3
+DC500 - People counter;Cellular Sensor;Dingtek;865385060636015;;Reol;6;2;Blandet #3
