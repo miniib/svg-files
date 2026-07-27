@@ -147,13 +147,13 @@ A1101 - AI Sensor;LoRaWAN sensor;SenseCAP;2CF7F1C063700269;44c549b726f18cbde93ec
 R313WA Seat Occupancy Sensor;LoRaWAN sensor;Netvox;00137A1000017AC6;758E14087C5CED9A573ABB6F3CF58B2B;Reol;7;0;Blandet #3
 DF702 Bin detector;LoRaWAN sensor;Dingtek;47CAC8688002F0047;2B7E151628AED2A6ABF7158809CF4F3C;Reol;7;0;Blandet #3
 DF702 Bin detector;LoRaWAN sensor;Dingtek;47AAC868001F0033;2B7E151628AED2A6ABF7158809CF4F3C;Reol;7;0;Blandet #3
-PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B0109E17A;;Reol;6;2;Blandet #3
-PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B010A7C7A;;Reol;6;2;Blandet #3
-PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B010A1023;;Reol;6;2;Blandet #3
-PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B0109F443;;Reol;6;2;Blandet #3
-PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B0109E613;;Reol;6;2;Blandet #3
-PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B0109F82C;;Reol;6;2;Blandet #3
-PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B01032DAF;;Reol;6;2;Blandet #3
+PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B0109E17A;;Reol;7;2;Blandet #3
+PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B010A7C7A;;Reol;7;2;Blandet #3
+PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B010A1023;;Reol;7;2;Blandet #3
+PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B0109F443;;Reol;7;2;Blandet #3
+PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B0109E613;;Reol;7;2;Blandet #3
+PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B0109F82C;;Reol;7;2;Blandet #3
+PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B01032DAF;;Reol;7;2;Blandet #3
 WS156;LoRaWAN sensor;Milesight;24E124592C1070C8;;Reol;6;0;Milesight #2
 WS302;LoRaWAN sensor;Milesight;24E124743E049650;;Reol;6;0;Milesight #2
 AT101;LoRaWAN sensor;Milesight;24E124745D377867;cf5680070aca1699166191767090adf7;Reol;6;0;Milesight #2
@@ -174,9 +174,5 @@ EM400-MUD;LoRaWAN sensor;Milesight;24E124329E211349;1ebb89a5a91c1724746775806768
 EM400-MUD;LoRaWAN sensor;Milesight;24E124329E210538;4beccfc5e36d172474677419562223e6;Reol;6;0;Milesight #3
 EM400-MUD;LoRaWAN sensor;Milesight;24E124329E210884;27bda35c5db41724746771093e3bddaa;Reol;6;0;Milesight #3
 EM400-TLD;LoRaWAN sensor;Milesight;24E124329E211711;;Reol;6;0;Milesight #3
-Bosch Parking;LoRaWAN sensor;Bosch;fcd6bd000019653f;3bb4f48c3855ff635ae85ab68c5dc82b;Reol;6;2;Blandet #3
-PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B0107D574;;Reol;6;2;Blandet #3
-VS330 - Bathroom Sensor;LoRaWAN sensor;Milesight;24E124617D056119;00000000000000000000000000000001;Reol;6;0;Milesight #3
-DC500 - People counter;Cellular Sensor;Dingtek;865385060636015;;Reol;6;2;Blandet #3
-D0209 - Parking sensor;LoRaWAN sensor;Dingtek;8CF95720001A8E4F;;Reol;6;2;Blandet #3
-D0209 - Parking sensor;LoRaWAN sensor;Dingtek;8CF95720001A8F3E;;Reol;6;2;Blandet #3
+Bosch Parking;LoRaWAN sensor;Bosch;fcd6bd000019653f;;Reol;6;2;Blandet #3
+Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff0064071c2e;;;;;
