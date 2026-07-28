@@ -176,3 +176,4 @@ EM400-MUD;LoRaWAN sensor;Milesight;24E124329E210884;27bda35c5db41724746771093e3b
 EM400-TLD;LoRaWAN sensor;Milesight;24E124329E211711;;Reol;6;0;Milesight #3
 Bosch Parking;LoRaWAN sensor;Bosch;fcd6bd000019653f;;Reol;6;2;Blandet #3
 Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff0064071c2e;;;;;
+WS302 - PIR (nemlia);LoRaWAN sensor;Milesight;24E124538C527337;;Reol;6;0;Milesight #3
