@@ -184,3 +184,4 @@ Field tester;LoRaWAN sensor;Adeunis;0018b20000021ec0;801a229f6990461e9b0ee48ea30
 Field tester;LoRaWAN sensor;RAK;ac1f09fffe18f65f;ac1f09fffe18f65fac1f09fff8680701;Reol;7;0;Signaltest #1
 iBTS Compact;LoRaWAN gateway;Kerlink;7276ff002e050870;;Reol;;;
 iBTS Compact;LoRaWAN gateway;Kerlink;7276ff002e03031A;;Reol;;;
+iStation;LoRaWAN gateway;Kerlink;7076FF0056090E94;;Reol;;;
