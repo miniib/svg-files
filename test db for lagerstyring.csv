@@ -177,3 +177,4 @@ EM400-TLD;LoRaWAN sensor;Milesight;24E124329E211711;;Reol;6;0;Milesight #3
 Bosch Parking;LoRaWAN sensor;Bosch;fcd6bd000019653f;;Reol;6;2;Blandet #3
 Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff0064071c2e;;;;;
 WS301 - Magnet(nemlia);LoRaWAN sensor;Milesight;24E1241410181132;;Reol;6;0;Milesight #3
+Field tester;LoRaWAN sensor;Adeunis;0018b20000001463;;Reol;7;0;Signaltest #1
