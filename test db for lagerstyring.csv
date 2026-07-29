@@ -185,7 +185,7 @@ Field tester;LoRaWAN sensor;RAK;ac1f09fffe18f65f;ac1f09fffe18f65fac1f09fff868070
 iBTS Compact;LoRaWAN gateway;Kerlink;7276ff002e050870;;Reol;;;
 iBTS Compact;LoRaWAN gateway;Kerlink;7276ff002e03031A;;Reol;;;
 iStation;LoRaWAN gateway;Kerlink;7076FF0056090E94;;Reol;;;
-iStation;LoRaWAN gateway;Kerlink;7076FF0056090E9E;;Reol;;;
+iStation;LoRaWAN gateway;Kerlink;7076FF0056090E9E;;Reol;5;1;
 iStation;LoRaWAN gateway;Kerlink;7076FF00560830D8;;Reol;5;1;
 iStation;LoRaWAN gateway;Kerlink;7076FF0056083A91;;Reol;5;1;
 iStation;LoRaWAN gateway;Kerlink;7076FF0056090E91;;Reol;5;1;
