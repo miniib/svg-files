@@ -205,7 +205,7 @@ Presence strip;LoRaWAN sensor;Sensative;70B3D52C0001E4DF;9C342BAED19C968C457AE31
 Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff00640523cc;;Skab;1;2;
 Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff006407211f;;Skab;1;2;
 Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff0064072126;;Skab;1;2;
-Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff00640721a5;;Skab;1;2;
+Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff00640721a5;;I brug;;;
 Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff006407181c;;Skab;1;2;
 Ifemtocell wifi;LoRaWAN gateway;Kerlink;7276ff0039091abc;;Skab;1;2;
 Ifemtocell wifi;LoRaWAN gateway;Kerlink;7276ff0039091ac1;;I brug;1;2;
