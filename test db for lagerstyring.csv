@@ -202,7 +202,7 @@ DLOS8;LoRaWAN gateway;Dragino;Ukendt;;Skab;1;0;
 PeopleCounter;LoRaWAN sensor;Imbuildings;0004A30B0103DBAA;c8e66aede61676920d0809fea7c7faf5;Reol;6;2;Blandet #3
 Presence strip;LoRaWAN sensor;Sensative;70B3D52C0001E4D1;6E751D04DCBF772DC1005857E30901C2;Reol;6;2;Blandet #3
 Presence strip;LoRaWAN sensor;Sensative;70B3D52C0001E4DF;9C342BAED19C968C457AE31DBB39B62A;Reol;6;2;Blandet #3
-Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff00640523cc;;Skab;1;2;
+Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff00640523cc;;I brug;;;
 Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff006407211f;;Skab;1;2;
 Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff0064072126;;Skab;1;2;
 Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff00640721a5;;I brug;;;
