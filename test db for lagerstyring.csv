@@ -175,7 +175,7 @@ EM400-MUD;LoRaWAN sensor;Milesight;24E124329E210538;4beccfc5e36d1724746774195622
 EM400-MUD;LoRaWAN sensor;Milesight;24E124329E210884;27bda35c5db41724746771093e3bddaa;Reol;6;0;Milesight #3
 EM400-TLD;LoRaWAN sensor;Milesight;24E124329E211711;;Reol;6;0;Milesight #3
 Bosch Parking;LoRaWAN sensor;Bosch;fcd6bd000019653f;3bb4f48c3855ff635ae85ab68c5dc82b;Reol;6;2;Blandet #3
-Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff0064071c2e;;Skab;1;2;
+Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff0064071c2e;;I brug;;;
 WS301 - Magnet(nemlia);LoRaWAN sensor;Milesight;24E1241410181132;;Reol;6;0;Milesight #3
 Field tester;LoRaWAN sensor;Adeunis;0018b20000001463;2285EC63528B596F1A1434F972B33473;Reol;7;0;Signaltest #1
 Field tester;LoRaWAN sensor;Adeunis;0018b200000227fd;e8e80b4ceb9d4ce68e0a0845a86c50db;Reol;7;0;Signaltest #1
