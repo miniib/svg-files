@@ -235,3 +235,4 @@ Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff0064052337;;Reol;1;2;
 Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff00640524c4;;Reol;1;2;
 Ifemtocell Evo;LoRaWAN gateway;Kerlink;7076ff00640523ff;;Skab;1;2;
 iBTS Compact;LoRaWAN gateway;Kerlink;7276ff002e060f90;;Reol;5;0;
+POE Injector;Andet;Unifi;;;Reol;5;0;
